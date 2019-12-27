@@ -1,0 +1,25 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-Uk/Storybook.git"
+  },
+  "author": "David Ukelere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-Uk/Storybook/issues"
+  },
+  "homepage": "https://github.com/David-Uk/Storybook#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.3",
+    "nodemon": "^2.0.2",
+    "passport": "^0.4.1"
+  }
+}
